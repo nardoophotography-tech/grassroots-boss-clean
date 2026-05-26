@@ -198,3 +198,5 @@ export const AdminSettings = () => {
     </div>
   );
 };
+
+export const AdminAccess = AdminSettings;
